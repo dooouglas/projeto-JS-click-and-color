@@ -15,13 +15,13 @@ O curso, de nível básico, cobre os fundamentos essenciais da linguagem, oferec
 
 Neste projeto, desenvolvi a estrutura e a lógica da aplicação web **Click & Color**. Embora seja um projeto simples, o mais interessante está no processo de construção com JavaScript!
 
-<img src="">
+<img src="Imagens\AnimaçãoClick&Color.gif">
 
-💡 **Como funciona?**
+💡 **Como funciona:**
 
 A aplicação apresenta um botão "Change the color!", e, ao clicar nele, a cor de fundo da página muda aleatoriamente. Além disso, o sistema exibe dinamicamente junto ao texto "Your color:" o nome da cor aplicada no background, tudo em um fluxo contínuo.
 
-🖌️ **Principais conceitos aplicados**
+🖌️ **Principais conceitos aplicados:**
 
 - Manipulação de eventos: um método em JavaScript escuta o clique no botão e, a cada interação com ele, aciona uma função que altera a cor de fundo.
 - Arrays e randomização: as cores são armazenadas em um Array e selecionadas de forma aleatória.

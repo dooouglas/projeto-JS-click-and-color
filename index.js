@@ -1,4 +1,4 @@
-const cores = ['Green', 'Yellow', 'Black', 'Blue', 'Purple', 'Pink', 'Red', 'Brown', 'Violet', 'White', 'Gray', 'Orange', 'Gold', 'Magenta', 'Salmon', 'Turquoise']
+const cores = ['Green', 'Yellow', 'Black', 'Blue', 'Purple', 'Pink', 'Red', 'Brown', 'Violet', 'White', 'Gray', 'Orange', 'Magenta', 'Turquoise']
 const btn = document.getElementById('btn')
 const cor = document.querySelector('.color')
 
