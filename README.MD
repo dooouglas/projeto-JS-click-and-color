@@ -9,7 +9,7 @@ O curso, de nível básico, cobre os fundamentos essenciais da linguagem, oferec
 - [Projeto 1: Calculadora Web — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-calculadora-web)
 - [Projeto 2: Calculadora de Gorjetas — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-calculadora-de-gorjetas)
 - **Projeto 3: Click & Color.**
-- Projeto 4: Adivinhe o Número.
+- [Projeto 4: Adivinhe o Número — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-adivinhe-o-numero)
 
 ## Click & Color
 
